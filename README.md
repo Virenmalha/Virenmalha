@@ -18,7 +18,7 @@ Motivated and self-taught frontend developer with a strong foundation in HTML, C
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
-_09/2018 - 01/2021 | 2.1 Grade Achieved_  
+_09/2018 - 08/2021 | 2.1 Grade Achieved_  
 Relevant Coursework: Web Development, UI/UX Fundamentals, Programming Principles
 
 ## 📂 Projects
